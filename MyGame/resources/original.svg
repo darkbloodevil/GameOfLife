@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4689"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="original.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4691"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="216.5"
+     inkscape:cy="421.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4686">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern4797"
+       patternTransform="matrix(10,0,0,10,-7.1556531,-108.81464)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1"
+       inkscape:stockid="Stripes 1:1">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect3155" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:url(#pattern4797);stroke-width:2.64967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1957"
+       width="101.89835"
+       height="96.046135"
+       x="42.29726"
+       y="79.628418"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path1086"
+       cx="87.508926"
+       cy="111.92366"
+       rx="37.399323"
+       ry="30.907019"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.02152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1088"
+       cx="94.092667"
+       cy="134.96677"
+       rx="37.034454"
+       ry="32.553852"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 91.89809,136.79557 c -12.070196,-21.0314 -27.249384,-0.36577 -27.249384,-0.36577 0,0 14.630541,-11.88731 27.249384,0.36577 z"
+       id="path5608"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 122.34791,136.61269 c -12.0702,-21.0314 -27.249389,-0.36577 -27.249389,-0.36577 0,0 14.630539,-11.88731 27.249389,0.36577 z"
+       id="path5608-7"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.03451"
+       id="path5785"
+       cx="73.792465"
+       cy="130.63907"
+       rx="2.7235343"
+       ry="2.1311965"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.44254"
+       id="path5787"
+       cx="104.88129"
+       cy="130.26749"
+       rx="2.6724272"
+       ry="2.1521847"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.56956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 70.410846,143.70731 c 0.417208,0.39498 5.632308,13.13309 20.651795,13.33057 15.019479,0.1975 24.510959,-11.75065 25.241079,-13.52807"
+       id="path5902"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.28602;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path6233"
+       cx="93.067184"
+       cy="111.98489"
+       rx="40.272095"
+       ry="9.0512629"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.22012;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6209"
+       width="41.980919"
+       height="21.475708"
+       x="73.796524"
+       y="88.745468"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.26294;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path6337"
+       cx="94.78698"
+       cy="88.899994"
+       rx="20.969049"
+       ry="4.3664484"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.45741;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path6441"
+       cx="95.316147"
+       cy="110.33125"
+       rx="21.004107"
+       ry="4.136919"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\cell_evil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

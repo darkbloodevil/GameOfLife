@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="rest.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.51150169"
+     inkscape:cx="169.1099"
+     inkscape:cy="251.22107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.886777"
+       id="rect971"
+       width="108.36694"
+       height="155.50458"
+       x="26.715452"
+       y="15.267965"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path31"
+       ry="38.588055"
+       rx="47.915024"
+       cy="245.42363"
+       cx="154.05721" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path1086"
+       cx="74.940765"
+       cy="44.336288"
+       rx="37.399323"
+       ry="30.907019"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.02152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1088"
+       cx="81.524506"
+       cy="67.379395"
+       rx="37.034454"
+       ry="32.553852"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.471855,26.230998 c 0,0 -10.60713,-5.30357 -18.47105,3.84052 -7.86392,9.14409 -17.37377,22.86022 -17.37377,34.38177 0,11.52156 0,11.52156 0,11.52156 l 20.84852,-23.40887 v 5.66933 l 20.48276,-12.0702 8.22968,15.54496 6.76663,-13.35037 12.435955,16.09359 4.20629,-14.08189 15.17918,14.81342 c 0,0 4.93781,-18.47106 -2.74322,-27.24938 -7.68104,-8.77833 -7.68104,-8.77833 -7.68104,-8.77833 0,0 -26.334985,-13.89901 -41.879935,-2.92611 z"
+       id="path1728"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;line-height:1.25;font-family:'黑体';-inkscape-font-specification:'黑体';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="39.918903"
+       y="154.61398"
+       id="text2902"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2900"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:'黑体';-inkscape-font-specification:'黑体';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="39.918903"
+         y="154.61398">躺平</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.571747,68.02071 c 1.29317,0 21.98388,1.034536 21.98388,1.034536"
+       id="path9231"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 88.828255,69.83146 c 1.29317,0 21.983875,1.034536 21.983875,1.034536"
+       id="path9231-4"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path9843"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       d="m 71.398703,80.784085 a 6.7244811,3.4915572 33.123173 0 0 -2.544032,1.020093 6.7244811,3.4915572 33.123173 0 0 3.723804,6.598563 6.7244811,3.4915572 33.123173 0 0 5.061191,1.769401 8.4056015,3.1036064 0 0 0 4.99401,0.608232 8.4056015,3.1036064 0 0 0 8.405688,-3.103687 8.4056015,3.1036064 0 0 0 -8.405688,-3.103171 8.4056015,3.1036064 0 0 0 -3.602881,0.301792 6.7244811,3.4915572 33.123173 0 0 -2.636531,-2.32079 6.7244811,3.4915572 33.123173 0 0 -4.995561,-1.770433 z"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.525;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 70.766748,84.71749 c 0,0 -3.911462,3.305015 -3.911462,5.211754 0,1.906739 2.607638,4.06771 3.766588,2.542319 1.158958,-1.525392 0.144874,-7.754073 0.144874,-7.754073 z"
+       id="path9980"
+       inkscape:export-filename="D:\PythonProjects\kivy\MyGame\resources\rest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

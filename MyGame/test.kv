@@ -1,0 +1,116 @@
+<ChooseWidget>:
+    size_hint:None,None
+    size:100,100
+
+
+<Tile>:
+    rgba:1,1,1,1
+    angle:0
+    pos:100,100
+    size_hint:None,None
+    size:100,100
+    canvas:
+        Color:
+            rgba:self.rgba
+        PushMatrix
+        Rotate:
+            angle:self.angle
+            origin:self.center
+        Rectangle:
+            pos:self.pos
+            size:self.size
+        PopMatrix
+<GameItems>:
+    Button:
+        id:increase
+        pos_hint:{'x':.4,'y':0.0}
+        size_hint:.2,.2
+        canvas:
+            BorderImage:
+                pos:self.pos
+                source:'resources/struggle.png'
+                size:self.size
+        on_press:root.touch_increase()
+    Label:
+        id:cell_money
+        pos_hint:{'x':.2,'y':0}
+        size_hint:.2,.2
+        text:'Cost:\n50'
+        font_size:'20dp'
+        color:0,0,0,1
+        canvas.before:
+#            Color:
+#                rgba: 0, 1, 0, 0.5
+#            Line:    # --- adds a border --- #
+#                width: 2
+#                rectangle: self.x, self.y, self.width, self.height
+            BorderImage:
+                source:"resources/text_background.png"
+                size: self.size
+                pos: self.pos
+
+    Button:
+        id:rest
+        pos_hint:{'x':.6,'y':0}
+        size_hint:.2,.2
+        canvas:
+            BorderImage:
+                pos:self.pos
+                source:'resources/rest_2.png'
+                size:self.size
+        on_press:root.touch_rest()
+    Button:
+        id:decrease
+        pos_hint:{'x':.8,'y':0}
+        size_hint:.2,.2
+        canvas:
+            BorderImage:
+                pos:self.pos
+                source:'resources/anti-struggle.png'
+                size:self.size
+        on_press:root.touch_decrease()
+    Label:
+        id:money
+        pos_hint:{'x':.40,'y':.9}
+        size_hint:.4,.1
+        text:'Welfare:\n 1500'
+        font_size:'20dp'
+        color:0,0,0,1
+        canvas.before:
+            BorderImage:
+                source:"resources/text_background_2.png"
+                size: self.size
+                pos: self.pos
+    Button:
+        id:start
+        pos_hint:{'x':.0,'y':0}
+        size_hint:.2,.2
+        canvas:
+            BorderImage:
+                pos:self.pos
+                source:'resources/start_button.png'
+                size:self.size
+        on_press:root.touch_start()
+    Label:
+        id:turn
+        pos_hint:{'x':0,'y':.9}
+        size_hint:.4,.1
+        text:'Turn: \n0'
+        font_size:'20dp'
+        color:0,0,0,1
+        canvas.before:
+            BorderImage:
+                source:"resources/text_background_2.png"
+                size: self.size
+                pos: self.pos
+
+
+<Background>:
+
+<GameScreen>:
+    #Background:
+<MenuScreen>:
+    Button:
+        id:start_game
+        text:'START GAME'
+        on_press:root.to_game()
